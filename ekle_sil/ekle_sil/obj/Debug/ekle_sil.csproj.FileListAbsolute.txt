@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\bin\Debug\ekle_sil.exe.config
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\bin\Debug\ekle_sil.exe
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\bin\Debug\ekle_sil.pdb
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.exe
+C:\Users\User\Desktop\Dersler\C#\ekle_sil\ekle_sil\obj\Debug\ekle_sil.pdb
